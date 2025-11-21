@@ -34,4 +34,11 @@ __Procedure__:
 
 __Output_:
 
+<img width="1280" height="1280" alt="517228471-082751ce-785e-4228-812d-1073d8755546" src="https://github.com/user-attachments/assets/34c81932-50cf-4abd-99f5-742d12756e33" />
+<img width="1022" height="1280" alt="517228550-61d31403-2fd4-463c-a206-fdaf1da7927c" src="https://github.com/user-attachments/assets/5bdd4e2a-7990-432b-8083-46fababf43a0" />
+<img width="1280" height="595" alt="517228640-3eaf3f59-fdc8-4a41-947c-7fc88ca2a4e3" src="https://github.com/user-attachments/assets/1175841f-e66d-4f61-a2ab-546fbe793a5b" />
+
+
 __Result__:
+
+Thus the FDM signal by multiplexing multiple baseband message signals on different carrier frequencies, transmit (sum) them, optionally add channel noise, then recover each message by bandpass filtering and coherent demodulation in Python (Google Colab) was successfully executed and the output is verified.
